@@ -1,6 +1,0 @@
-#! /bin/bash
-
-kill -9 $(ps au | grep login-server)
-kill -9 $(ps au | grep char-server)
-kill -9 $(ps au | grep map-server)
-kill -9 $(ps au | grep save-server)
