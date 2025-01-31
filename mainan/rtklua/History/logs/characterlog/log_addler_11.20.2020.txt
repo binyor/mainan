@@ -1,0 +1,48 @@
+==== [Login] ==================================================================
+ Addler has logged in ~ @Leviathan Fields(2538)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 00:58:29 2020
+==== [Logout] ==================================================================
+ Addler has logged out ~ @Buya(330)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 00:59:33 2020
+==== [Login] ==================================================================
+ Addler has logged in ~ @Buya(330)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:00:22 2020
+==== [Logout] ==================================================================
+ Addler has logged out ~ @Buya(330)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:01:11 2020
+==== [Login] ==================================================================
+ Addler has logged in ~ @Buya(330)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:01:31 2020
+==== [Logout] ==================================================================
+ Addler has logged out ~ @Buya(330)
+ 500 gold.
+ 75,433 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:14:43 2020
+<Fri Nov 20 14:19:00 2020> BOUGHT: Ink Amount: 1 for 100 gold. | @Paryu Message (337)
+<Fri Nov 20 14:19:17 2020> BOUGHT: Wine Amount: 1 for 10 gold. | @Yunsil Tavern (362)
+<Fri Nov 20 14:24:49 2020> BOUGHT: Aged wine Amount: 1 for 150 gold. | @Bagai Shop (363)
+<Fri Nov 20 15:03:49 2020> BOUGHT: Wine Amount: 1 for 10 gold. | @Yunsil Tavern (362)
+<Fri Nov 20 15:03:53 2020> BOUGHT: Wine Amount: 1 for 10 gold. | @Yunsil Tavern (362)
+<Fri Nov 20 15:03:56 2020> BOUGHT: Wine Amount: 1 for 10 gold. | @Yunsil Tavern (362)

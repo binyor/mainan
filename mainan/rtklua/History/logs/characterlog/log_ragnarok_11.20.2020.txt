@@ -1,0 +1,9 @@
+==== [Logout] ==================================================================
+ Ragnarok has logged out ~ @Mythic Nexus(41)
+ 18,468 gold.
+ 173,379,018 experience.
+ 0 karma.
+ IP: 24.200.95.47
+Date & Time : Fri Nov 20 00:15:00 2020
+<Fri Nov 20 21:32:44 2020> BOUGHT: Tainted ring Amount: 1 for 2,500 gold. | @Hermit Home (2540)
+<Fri Nov 20 21:32:47 2020> BOUGHT: Tainted ring Amount: 1 for 2,500 gold. | @Hermit Home (2540)

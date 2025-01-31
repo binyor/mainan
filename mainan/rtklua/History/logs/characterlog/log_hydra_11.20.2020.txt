@@ -1,0 +1,319 @@
+<Fri Nov 20 00:01:24 2020> Gained 8 from Squirrel | @Mythic Nexus (41)
+<Fri Nov 20 00:01:40 2020> PICKED UP: 2 Acorn | @Mythic Nexus (41) | X: 41 Y: 40 | Ctrl + Comma
+<Fri Nov 20 00:01:40 2020> PICKED UP: 1 Herb pipe | @Mythic Nexus (41) | X: 41 Y: 40 | Ctrl + Comma
+<Fri Nov 20 00:01:40 2020> PICKED UP: 1 Muddy potion | @Mythic Nexus (41) | X: 41 Y: 40 | Ctrl + Comma
+<Fri Nov 20 00:01:40 2020> PICKED UP: 2 Chicken meat | @Mythic Nexus (41) | X: 41 Y: 40 | Ctrl + Comma
+<Fri Nov 20 00:01:40 2020> PICKED UP: 4 Green squirrel pelt | @Mythic Nexus (41) | X: 41 Y: 40 | Ctrl + Comma
+<Fri Nov 20 00:01:55 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:01:57 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 17 Y: 9 | Ctrl + Comma
+<Fri Nov 20 00:02:12 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:02:25 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:02:36 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:02:50 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:01 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:08 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:16 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:17 2020> PICKED UP: 1 Amber | @Sheep Chasm 1 (470) | X: 12 Y: 2 | Ctrl + Comma
+<Fri Nov 20 00:03:17 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 12 Y: 2 | Ctrl + Comma
+<Fri Nov 20 00:03:30 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:41 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:47 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:50 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:03:56 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:03 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:08 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:17 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:29 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:36 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:41 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:55 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:04:56 2020> PICKED UP: 2 Wool | @Sheep Chasm 1 (470) | X: 9 Y: 2 | Ctrl + Comma
+<Fri Nov 20 00:04:56 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 9 Y: 2 | Ctrl + Comma
+<Fri Nov 20 00:05:11 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:05:23 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:05:30 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:05:35 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:05:46 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:05:55 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:01 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:22 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:32 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:42 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:51 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:57 2020> Gained 415,001 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:06:59 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 9 Y: 2 | Ctrl + Comma
+<Fri Nov 20 00:07:09 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:07:10 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 9 Y: 5 | Ctrl + Comma
+<Fri Nov 20 00:07:24 2020> Gained 590,848 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:07:25 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 5 Y: 15 | Ctrl + Comma
+<Fri Nov 20 00:07:38 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:07:48 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:07:54 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:02 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:14 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:27 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:42 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:48 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:50 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 3 Y: 14 | Ctrl + Comma
+<Fri Nov 20 00:08:54 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:08:56 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 4 Y: 14 | Ctrl + Comma
+<Fri Nov 20 00:09:01 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:09 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:19 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:23 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:27 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:40 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:45 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:09:49 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:02 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:03 2020> PICKED UP: 1 Amber | @Good Grazing 1 (471) | X: 9 Y: 13 | Ctrl + Comma
+<Fri Nov 20 00:10:03 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 9 Y: 13 | Ctrl + Comma
+<Fri Nov 20 00:10:15 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:27 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:39 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:52 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:10:56 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:23 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:25 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:37 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:46 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:50 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:11:58 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:12:06 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:12:28 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:12:37 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:12:42 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:12:54 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:06 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:11 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:18 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:36 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:47 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:51 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 12 | Ctrl + Comma
+<Fri Nov 20 00:13:51 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 12 | Ctrl + Comma
+<Fri Nov 20 00:13:56 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:13:59 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 10 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:13:59 2020> PICKED UP: 1 Amber | @Good Grazing 1 (471) | X: 10 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:14:06 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:14:17 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:14:25 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:14:37 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:14:41 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:14:54 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:01 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:11 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:17 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:18 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 11 Y: 13 | Ctrl + Comma
+<Fri Nov 20 00:15:37 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:44 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:15:50 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:04 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:13 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:19 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:27 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:32 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:39 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:16:58 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:07 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:17 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:21 2020> Gained 415,001 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:32 2020> Gained 590,848 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:33 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 9 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:17:33 2020> PICKED UP: 1 Amber | @Good Grazing 1 (471) | X: 9 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:17:33 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 9 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:17:46 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:17:52 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:04 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:14 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:24 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:36 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:43 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:53 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:18:58 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:04 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:12 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:26 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:32 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:39 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:44 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:19:50 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:03 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:11 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:17 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:24 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:32 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:34 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:20:35 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 10 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:20:41 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:53 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:20:55 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 9 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:20:55 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 9 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:21:10 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:21:16 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:21:23 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:21:34 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:21:43 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:21:50 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:02 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:17 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:20 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:25 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:36 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:22:53 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:08 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:16 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:22 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:31 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:37 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:44 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:45 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:23:45 2020> PICKED UP: 1 Amber | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:23:45 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:23:52 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:23:53 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 10 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:23:53 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 10 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:24:03 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:10 2020> LEVELED UP TO: 98 | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:10 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:24 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:40 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:46 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:24:59 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:05 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:17 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:26 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:36 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:50 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:25:52 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:26:15 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:26:21 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:26:25 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:26:43 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:26:52 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:27:12 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:27:26 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:27:34 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:27:47 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:27:50 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 7 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:27:50 2020> PICKED UP: 1 Amber | @Good Grazing 1 (471) | X: 7 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:27:56 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:04 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:17 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:26 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:35 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:42 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:28:48 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:07 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:19 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:31 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:39 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:45 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:29:54 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:30:07 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:30:13 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:30:22 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:30:54 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:08 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:22 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:29 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:44 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:50 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:31:59 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:32:14 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:32:27 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:32:34 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:32:42 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:38:14 2020> DROPPED: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 55 Y: 30
+<Fri Nov 20 00:38:15 2020> PICKED UP: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 55 Y: 30 | Comma
+<Fri Nov 20 00:38:16 2020> DROPPED: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 55 Y: 33
+<Fri Nov 20 00:38:17 2020> DROPPED: 1 Wool | @Mythic Nexus (41) | X: 56 Y: 34
+<Fri Nov 20 00:38:19 2020> PICKED UP: 1 Wool | @Mythic Nexus (41) | X: 56 Y: 34 | Comma
+<Fri Nov 20 00:38:19 2020> DROPPED: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 56 Y: 34
+<Fri Nov 20 00:38:20 2020> DROPPED: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 57 Y: 33
+<Fri Nov 20 00:38:21 2020> DROPPED: 1 Green squirrel pelt | @Mythic Nexus (41) | X: 56 Y: 32
+<Fri Nov 20 00:38:23 2020> DROPPED: 1 Coins | @Mythic Nexus (41) | X: 55 Y: 33
+<Fri Nov 20 00:38:24 2020> DROPPED: 1 Coins | @Mythic Nexus (41) | X: 56 Y: 34
+<Fri Nov 20 00:38:25 2020> DROPPED: 1 Coins | @Mythic Nexus (41) | X: 57 Y: 33
+<Fri Nov 20 00:38:26 2020> DROPPED: 1 Coins | @Mythic Nexus (41) | X: 56 Y: 32
+<Fri Nov 20 00:38:28 2020> DROPPED: 1 Chicken meat | @Mythic Nexus (41) | X: 55 Y: 33
+<Fri Nov 20 00:38:30 2020> DROPPED: 1 Chicken meat | @Mythic Nexus (41) | X: 57 Y: 33
+<Fri Nov 20 00:38:38 2020> Gained 11 from Squirrel | @Mythic Nexus (41)
+<Fri Nov 20 00:38:39 2020> Gained 11 from Squirrel | @Mythic Nexus (41)
+<Fri Nov 20 00:38:40 2020> PICKED UP: 35 Acorn | @Mythic Nexus (41) | X: 52 Y: 39 | Ctrl + Comma
+<Fri Nov 20 00:38:42 2020> PICKED UP: 11 Acorn | @Mythic Nexus (41) | X: 56 Y: 38 | Ctrl + Comma
+<Fri Nov 20 00:38:44 2020> DROPPED: 1 Acorn | @Mythic Nexus (41) | X: 56 Y: 34
+<Fri Nov 20 00:38:45 2020> DROPPED: 1 Acorn | @Mythic Nexus (41) | X: 57 Y: 33
+<Fri Nov 20 00:38:46 2020> DROPPED: 1 Acorn | @Mythic Nexus (41) | X: 56 Y: 32
+<Fri Nov 20 00:38:47 2020> DROPPED: 1 Acorn | @Mythic Nexus (41) | X: 55 Y: 33
+<Fri Nov 20 00:39:08 2020> Gained 357,000 from Red chick | @Swarmed Steps 2 (3214)
+<Fri Nov 20 00:39:10 2020> Gained 357,000 from Red chick | @Swarmed Steps 2 (3214)
+<Fri Nov 20 00:39:11 2020> PICKED UP: 1 Chicken meat | @Swarmed Steps 2 (3214) | X: 9 Y: 56 | Ctrl + Comma
+<Fri Nov 20 00:39:26 2020> DROPPED: 1 Chicken meat | @Mythic Nexus (41) | X: 56 Y: 34
+<Fri Nov 20 00:39:39 2020> Gained 53 from Doe | @Mythic Nexus (41)
+<Fri Nov 20 00:40:58 2020> PICKED UP: 1 Acorn | @Mythic Nexus (41) | X: 40 Y: 43 | Ctrl + Comma
+<Fri Nov 20 00:41:31 2020> Gained 8 from Squirrel | @Mythic Nexus (41)
+<Fri Nov 20 00:42:03 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:42:15 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:42:40 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:42:50 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:42:59 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:43:04 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:43:10 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:43:30 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:43:35 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:43:43 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:43:55 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:43:57 2020> PICKED UP: 2 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:43:57 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:44:06 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:44:16 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:44:23 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:44:26 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:44:32 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:44:44 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:07 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:12 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:21 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:26 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:37 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:45:39 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 11 Y: 9 | Ctrl + Comma
+<Fri Nov 20 00:45:39 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 11 Y: 9 | Ctrl + Comma
+<Fri Nov 20 00:45:50 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:00 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:16 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:29 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:42 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:48 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:46:52 2020> PICKED UP: 1 Wool | @Good Grazing 1 (471) | X: 8 Y: 11 | Ctrl + Comma
+<Fri Nov 20 00:47:04 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:47:23 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:47:40 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:47:44 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:47:51 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:48:04 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:48:19 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:48:38 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:48:51 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:48:59 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:49:07 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:49:21 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:49:30 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:49:46 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:50:05 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:50:14 2020> Gained 435,751 from Fierce Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:50:21 2020> Gained 620,390 from Ugly Sheep | @Good Grazing 1 (471)
+<Fri Nov 20 00:52:15 2020> Gained 8 from Squirrel | @Mythic Nexus (41)
+<Fri Nov 20 00:53:41 2020> Gained 38 from Doe | @Mythic Nexus (41)
+<Fri Nov 20 00:56:14 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:56:29 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:56:40 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:56:47 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:56:48 2020> PICKED UP: 1 Wool | @Sheep Chasm 1 (470) | X: 15 Y: 12 | Ctrl + Comma
+<Fri Nov 20 00:56:57 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:57:11 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:57:22 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:57:27 2020> Gained 435,751 from Fierce Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:57:46 2020> Gained 620,390 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 00:58:03 2020> Gained 882,000 from Ugly Sheep | @Sheep Chasm 1 (470)
+<Fri Nov 20 01:00:14 2020> PICKED UP: 1 Amber | @Sheep Chasm 1 (470) | X: 10 Y: 3 | Ctrl + Comma
+<Fri Nov 20 11:45:49 2020> BOUGHT: Bear's liver Amount: 89 for 1,780 gold. | @Pyung Shop (359)

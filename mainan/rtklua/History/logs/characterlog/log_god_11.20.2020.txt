@@ -1,0 +1,19 @@
+<Fri Nov 20 00:01:54 2020> PICKED UP: 10 Dark amber | @Yunsil Tavern (362) | X: 22 Y: 7 | Ctrl + Comma
+<Fri Nov 20 00:01:54 2020> PICKED UP: 1 White amber | @Yunsil Tavern (362) | X: 22 Y: 7 | Ctrl + Comma
+<Fri Nov 20 00:01:54 2020> PICKED UP: 17 Amber | @Yunsil Tavern (362) | X: 22 Y: 7 | Ctrl + Comma
+<Fri Nov 20 00:01:54 2020> PICKED UP: 1 Pearl charm | @Yunsil Tavern (362) | X: 22 Y: 7 | Ctrl + Comma
+<Fri Nov 20 00:01:57 2020> DROPPED: 1 Key to Thunder | @Yunsil Tavern (362) | X: 21 Y: 7
+<Fri Nov 20 00:02:00 2020> PICKED UP: 1 Pearl charm | @Yunsil Tavern (362) | X: 22 Y: 7 | Shift + Comma
+<Fri Nov 20 04:28:32 2020> BOUGHT: Star powder Amount: 1 for 100 gold. | @Buchi Shop (34)
+<Fri Nov 20 06:31:41 2020> BOUGHT: Ink Amount: 10 for 1,000 gold. | @Paryu Message (337)
+<Fri Nov 20 06:32:12 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:32:32 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:32:55 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:33:16 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:34:02 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:34:16 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:34:30 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:34:46 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:34:47 2020> BOUGHT: Moon paper Amount: 1 for 5,000 gold. | @Baek Shop (30)
+<Fri Nov 20 06:59:25 2020> BOUGHT: Ink Amount: 36 for 3,600 gold. | @Paryu Message (337)
+<Fri Nov 20 06:59:29 2020> BOUGHT: White paper Amount: 36 for 360 gold. | @Paryu Message (337)

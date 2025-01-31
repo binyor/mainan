@@ -1,0 +1,3 @@
+<Fri Nov 20 02:41:36 2020> BOUGHT: Wine Amount: 1 for 10 gold. | @Spring Tavern (332)
+<Fri Nov 20 04:46:44 2020> BOUGHT: Ogre cider Amount: 1 for 10 gold. | @Home of Ugh (42)
+<Fri Nov 20 15:43:05 2020> BOUGHT: Jade war platemail Amount: 1 for 30 gold. | @Dok Smith (333)

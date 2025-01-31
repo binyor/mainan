@@ -1,0 +1,82 @@
+==== [Login] ==================================================================
+ Spider has logged in ~ @Mythic Nexus(41)
+ 329,747 gold.
+ 12,604,255 experience.
+ 7.5799999237061 karma.
+ IP: 174.250.36.2
+Date & Time : Fri Nov 20 00:51:18 2020
+<Fri Nov 20 00:55:05 2020> Gained 2,000,000 from Zin-te | @Zin-te (111)
+<Fri Nov 20 00:55:06 2020> PICKED UP: 1 Dark amber | @Zin-te (111) | X: 4 Y: 6 | Ctrl + Comma
+<Fri Nov 20 00:55:23 2020> Gained 10 from Squirrel | @Kugnae (0)
+<Fri Nov 20 01:02:29 2020> Gained 10 from Squirrel | @Mythic Nexus (41)
+==== [Logout] ==================================================================
+ Spider has logged out ~ @Mythic Nexus(41)
+ 329,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 174.250.36.2
+Date & Time : Fri Nov 20 01:06:18 2020
+==== [Login] ==================================================================
+ Spider has logged in ~ @Mythic Nexus(41)
+ 329,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 208.123.128.154
+Date & Time : Fri Nov 20 01:06:38 2020
+<Fri Nov 20 01:14:46 2020> DROPPED: 20000 Coins | @Mythic Nexus (41) | X: 18 Y: 46
+==== [Logout] ==================================================================
+ Spider has logged out ~ @Prancing Path 2(3241)
+ 309,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 208.123.128.154
+Date & Time : Fri Nov 20 01:15:58 2020
+==== [Login] ==================================================================
+ Spider has logged in ~ @Prancing Path 2(3241)
+ 309,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 208.123.128.154
+Date & Time : Fri Nov 20 01:16:25 2020
+==== [Logout] ==================================================================
+ Spider has logged out ~ @Mythic Nexus(41)
+ 309,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 208.123.128.154
+Date & Time : Fri Nov 20 01:17:00 2020
+==== [Login] ==================================================================
+ Spider has logged in ~ @Mythic Nexus(41)
+ 309,747 gold.
+ 16,604,295 experience.
+ 7.5799999237061 karma.
+ IP: 208.123.128.154
+Date & Time : Fri Nov 20 01:17:24 2020
+<Fri Nov 20 01:21:08 2020> Equipment broken/destroyed: Magical dust | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 01:21:08 2020> Equipment broken/destroyed: Lucky silver coin | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 01:21:08 2020> Equipment broken/destroyed: Lucky silver coin | @Horse Valley 2 (3242) | X: 12 Y: 7
+
+==== [Break on Death] ==================================================================
+Player      : Spider (ID: 5)
+Date & Time : Fri Nov 20 01:21:08 2020
+Location    : Horse Valley 2 (3242) | X: 12 Y: 7
+Items       : 
+1. Magical dust amount: 1
+2. Lucky silver coin amount: 1
+3. Lucky silver coin amount: 1
+<Fri Nov 20 01:21:08 2020> Item broken/destroyed: Jade diamond | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 01:21:08 2020> Item broken/destroyed: Jade diamond | @Horse Valley 2 (3242) | X: 12 Y: 7
+
+==== [Break on Death] ==================================================================
+Player      : Spider (ID: 5)
+Date & Time : Fri Nov 20 01:21:08 2020
+Location    : Horse Valley 2 (3242) | X: 12 Y: 7
+Items       : 
+1. Scribe's book amount: 1
+2. Scribe's book amount: 1
+3. Scribe's book amount: 1
+4. Scribe's book amount: 1
+<Fri Nov 20 01:21:08 2020> DROPPED: 1 Yellow scroll | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 01:21:08 2020> DROPPED: 1 Stealth glove | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 01:21:08 2020> DROPPED: 1 Gold acorn | @Horse Valley 2 (3242) | X: 12 Y: 7
+<Fri Nov 20 11:51:57 2020> BOUGHT: Acorn Amount: 100 for 1,000 gold. | @Ogi Butcher (334)

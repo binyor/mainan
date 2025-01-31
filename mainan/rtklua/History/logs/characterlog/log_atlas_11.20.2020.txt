@@ -1,0 +1,51 @@
+<Fri Nov 20 00:26:02 2020> DEPOSITED: Metal  Amount: 47 | @Spruce Inn (1122)
+<Fri Nov 20 00:26:07 2020> DEPOSITED: Fine metal  Amount: 14 | @Spruce Inn (1122)
+<Fri Nov 20 00:26:11 2020> WITHDREW: Ore [poor]  Amount: 69 | @Spruce Inn (1122)
+<Fri Nov 20 00:26:18 2020> WITHDREW: Ore [med]  Amount: 54 | @Spruce Inn (1122)
+<Fri Nov 20 00:26:22 2020> WITHDREW: Ore [high]  Amount: 24 | @Spruce Inn (1122)
+<Fri Nov 20 00:26:34 2020> DEPOSITED: Slag  Amount: 100 | @Spruce Inn (1122)
+<Fri Nov 20 00:36:48 2020> DROPPED: 1 Maxcaliber | @Gruff Smith (1125) | X: 4 Y: 7
+<Fri Nov 20 00:51:47 2020> WITHDREW: Metal  Amount: 47 | @Spruce Inn (1122)
+<Fri Nov 20 00:51:52 2020> WITHDREW: Fine metal  Amount: 14 | @Spruce Inn (1122)
+<Fri Nov 20 00:52:45 2020> DEPOSITED: Slag  Amount: 97 | @Walsuk Tavern (2)
+<Fri Nov 20 00:52:49 2020> DEPOSITED: Metal  Amount: 90 | @Walsuk Tavern (2)
+<Fri Nov 20 00:52:52 2020> DEPOSITED: Fine metal  Amount: 25 | @Walsuk Tavern (2)
+<Fri Nov 20 00:54:17 2020> WITHDREW: Ore [med]  Amount: 51 | @Spruce Inn (1122)
+<Fri Nov 20 00:54:23 2020> WITHDREW: Ore [poor]  Amount: 50 | @Spruce Inn (1122)
+<Fri Nov 20 00:54:34 2020> PICKED UP: 16 Slag | @Gruff Smith (1125) | X: 4 Y: 8 | Shift + Comma
+==== [Logout] ==================================================================
+ Atlas has logged out ~ @Gruff Smith(1125)
+ 7,889 gold.
+ 4,080,311 experience.
+ 1.1000000238419 karma.
+ IP: 216.164.255.155
+Date & Time : Fri Nov 20 01:15:24 2020
+==== [Login] ==================================================================
+ Atlas has logged in ~ @Gruff Smith(1125)
+ 7,889 gold.
+ 4,080,311 experience.
+ 1.1000000238419 karma.
+ IP: 216.164.255.155
+Date & Time : Fri Nov 20 01:15:29 2020
+<Fri Nov 20 12:58:23 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:24 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:25 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:26 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:26 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:29 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:32 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 12:58:33 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 13:39:23 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 13:39:25 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 13:39:36 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 13:39:37 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 13:39:38 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 15:28:23 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:01 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:02 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:03 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:04 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:05 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:06 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:07 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)
+<Fri Nov 20 19:39:11 2020> BOUGHT: Mining pick Amount: 1 for 200 gold. | @Thane's Cave (1144)

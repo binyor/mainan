@@ -1,0 +1,43 @@
+==== [Login] ==================================================================
+ Thom has logged in ~ @Leviathan Fields(2538)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:00:34 2020
+==== [Logout] ==================================================================
+ Thom has logged out ~ @Buya(330)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:01:05 2020
+==== [Login] ==================================================================
+ Thom has logged in ~ @Buya(330)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:01:44 2020
+==== [Logout] ==================================================================
+ Thom has logged out ~ @Buya(330)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:02:21 2020
+==== [Login] ==================================================================
+ Thom has logged in ~ @Buya(330)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:02:48 2020
+==== [Logout] ==================================================================
+ Thom has logged out ~ @Buya(330)
+ 500 gold.
+ 76,913 experience.
+ 0 karma.
+ IP: 216.237.228.32
+Date & Time : Fri Nov 20 01:14:46 2020
+<Fri Nov 20 15:00:37 2020> BOUGHT: Antler Amount: 20 for 240 gold. | @Buya Warrior's Hall (3705)

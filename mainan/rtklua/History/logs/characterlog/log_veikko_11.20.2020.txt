@@ -1,0 +1,43 @@
+<Fri Nov 20 00:00:05 2020> Gained 600,000 from Mercenary | @The Dark Forest (5845)
+<Fri Nov 20 00:00:30 2020> Gained 600,000 from Pine fox | @The Dark Forest (5845)
+<Fri Nov 20 00:00:51 2020> Gained 600,000 from Pine wolf | @The Dark Forest (5845)
+<Fri Nov 20 00:01:21 2020> Gained 600,000 from Pine raven | @The Dark Forest (5842)
+<Fri Nov 20 00:01:46 2020> Gained 600,000 from Pine fox | @The Dark Forest (5842)
+<Fri Nov 20 00:17:34 2020> Gained 53 from Doe | @Nagnang (2500)
+<Fri Nov 20 00:19:17 2020> Gained 26 from Rat | @Nagnang (2500)
+<Fri Nov 20 00:19:20 2020> Gained 53 from Deer | @Nagnang (2500)
+<Fri Nov 20 00:21:29 2020> Gained 42 from Crow | @Nagnang (2500)
+<Fri Nov 20 00:21:30 2020> Gained 42 from Crow | @Nagnang (2500)
+<Fri Nov 20 00:21:30 2020> Gained 42 from Crow | @Nagnang (2500)
+<Fri Nov 20 00:21:31 2020> Gained 42 from Crow | @Nagnang (2500)
+<Fri Nov 20 00:21:40 2020> Gained 11 from Squirrel | @Nagnang (2500)
+<Fri Nov 20 00:21:53 2020> Gained 5 from Rabbit | @Nagnang (2500)
+<Fri Nov 20 00:40:32 2020> Gained 5 from Rabbit | @Nagnang (2500)
+<Fri Nov 20 00:46:56 2020> Gained 630,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 00:47:23 2020> Gained 630,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 00:49:12 2020> Gained 630,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 00:50:04 2020> LEVELED UP TO: 76 | @The Dark Forest (5843)
+<Fri Nov 20 00:50:04 2020> Gained 630,000 from Mercenary | @The Dark Forest (5843)
+<Fri Nov 20 00:50:55 2020> Gained 630,000 from Pine fox | @The Dark Forest (5843)
+==== [Logout] ==================================================================
+ Veikko has logged out ~ @The Dark Forest(5843)
+ 5,779 gold.
+ 196,707,720 experience.
+ 5.0999999046326 karma.
+ IP: 216.230.46.169
+Date & Time : Fri Nov 20 00:51:19 2020
+==== [Login] ==================================================================
+ Veikko has logged in ~ @The Dark Forest(5843)
+ 5,779 gold.
+ 196,707,720 experience.
+ 5.0999999046326 karma.
+ IP: 216.230.46.169
+Date & Time : Fri Nov 20 01:17:52 2020
+<Fri Nov 20 01:21:52 2020> Gained 600,000 from Pine raven | @The Dark Forest (5843)
+<Fri Nov 20 01:22:22 2020> Gained 600,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 01:22:49 2020> Gained 600,000 from Pine wolf | @The Dark Forest (5843)
+<Fri Nov 20 01:23:17 2020> Gained 600,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 01:23:48 2020> Gained 600,000 from Pine fox | @The Dark Forest (5843)
+<Fri Nov 20 01:24:18 2020> Gained 600,000 from Pine raven | @The Dark Forest (5843)
+<Fri Nov 20 01:24:42 2020> Gained 600,000 from Pine wolf | @The Dark Forest (5843)
+<Fri Nov 20 21:53:23 2020> BOUGHT: Yellow scroll Amount: 100 for 100 gold. | @Ginger Tavern (38)

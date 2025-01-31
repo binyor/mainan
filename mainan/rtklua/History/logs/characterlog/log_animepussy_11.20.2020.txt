@@ -1,0 +1,18 @@
+<Fri Nov 20 00:01:44 2020> DROPPED: 1 Scribe's pen | @Buya (330) | X: 72 Y: 141
+<Fri Nov 20 00:01:44 2020> DROPPED: 2 Scribe's pen | @Buya (330) | X: 72 Y: 141
+<Fri Nov 20 00:01:50 2020> DROPPED: 1 Wicked staff | @Buya (330) | X: 70 Y: 141
+<Fri Nov 20 00:04:04 2020> Gained 500 from Green squirrel | @Southern Path (2535)
+<Fri Nov 20 00:05:35 2020> Gained 5 from Rabbit | @Nagnang (2500)
+<Fri Nov 20 00:05:46 2020> Gained 80 from Snake | @Nagnang (2500)
+<Fri Nov 20 00:06:09 2020> Gained 500 from Green squirrel | @Southern Path (2535)
+<Fri Nov 20 00:08:30 2020> BOUGHT: Steel saber Amount: 1 for 1,000 gold. | @Dok Smith (333)
+<Fri Nov 20 00:14:03 2020> PICKED UP: 10 Gold acorn | @Buya (330) | X: 11 Y: 90 | Ctrl + Comma
+==== [Logout] ==================================================================
+ AnimePussy has logged out ~ @Buya(330)
+ 26,750 gold.
+ 2,525,290 experience.
+ 0 karma.
+ IP: 174.88.229.195
+Date & Time : Fri Nov 20 00:14:05 2020
+<Fri Nov 20 23:15:10 2020> BOUGHT: Antler Amount: 50 for 600 gold. | @Buya Warrior's Hall (3705)
+<Fri Nov 20 23:27:19 2020> BOUGHT: Antler Amount: 16 for 192 gold. | @Kugnae Warrior's Hall (3701)

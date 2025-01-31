@@ -1,0 +1,6 @@
+<Fri Nov 20 00:46:41 2020> DROPPED: 1 Blood stone | @Mythic Nexus (41) | X: 56 Y: 33
+<Fri Nov 20 01:06:34 2020> PICKED UP: 1 Amber | @Sel's Home (1143) | X: 7 Y: 4 | Comma
+<Fri Nov 20 01:08:09 2020> SOLD: Tarnished amber Amount: 92 for 11,040 gold. | @Baegi Shop (29)
+<Fri Nov 20 01:08:14 2020> SOLD: Crafted amber Amount: 21 for 8,400 gold. | @Baegi Shop (29)
+<Fri Nov 20 01:08:21 2020> SOLD: Well cftd amber Amount: 6 for 4,800 gold. | @Baegi Shop (29)
+<Fri Nov 20 21:18:51 2020> BOUGHT: Antler Amount: 1 for 12 gold. | @Buya Poet's Hall (3708)
